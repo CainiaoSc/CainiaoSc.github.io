@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Noobzyh&#39;s Blog</title>
+  
+  <subtitle>可以教电脑小白的blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-16T10:08:59.383Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Noobzyh</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>快速学习win10（1）</title>
+    <link href="http://yoursite.com/2018/09/16/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0win10%EF%BC%881%EF%BC%89/"/>
+    <id>http://yoursite.com/2018/09/16/快速学习win10（1）/</id>
+    <published>2018-09-16T10:08:59.000Z</published>
+    <updated>2018-09-16T10:08:59.383Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电脑操作系统简介</title>
+    <link href="http://yoursite.com/2018/09/16/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B/"/>
+    <id>http://yoursite.com/2018/09/16/电脑操作系统简介/</id>
+    <published>2018-09-16T02:56:04.000Z</published>
+    <updated>2018-09-16T04:21:09.184Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Windows-XP"><a href="#Windows-XP" class="headerlink" title="Windows XP"></a>Windows XP</h1><p>Windows XP是美国微软公司研发的基于X86、X64架构的PC和平板电脑使用的操作系统，于2001年8月24日发布RTM版本，并于2001年10月25日开始零售。可以说是最为经典的一个操作系统。<br><img src="/2018/09/16/电脑操作系统简介/1.jpg" alt=""></p><h1 id="Windows-7"><a href="#Windows-7" class="headerlink" title="Windows 7"></a>Windows 7</h1><p>Windows7，中文名称视窗7，是由微软公司开发的操作系统，内核版本号为Windows NT 6.1。Windows7可供家庭及商业工作环境：笔记本电脑、平板电脑 、多媒体中心等使用。和同为NT6成员的Windows Vista一脉相承，Windows7继承了包括Aero风格等多项功能，并且在此基础上增添了些许功能。<br><img src="/2018/09/16/电脑操作系统简介/2.jpg" alt=""></p><h1 id="Windows-8"><a href="#Windows-8" class="headerlink" title="Windows 8"></a>Windows 8</h1><p>Windows 8是美国微软开发的新一代操作系统，Windows8共有4个发行版本，分别面向不同用户和设备。于2012年10月26日发布。微软在Windows8操作系统上对界面做了相当大的调整。取消了经典主题以及Windows 7和Vista的Aero效果，加入了ModernUI，和Windows传统界面并存。同时Windows徽标大幅简化，以反映新的Modern UI风格。前身旗形标志转化成梯形。<br><img src="/2018/09/16/电脑操作系统简介/3.jpg" alt=""></p><h1 id="Windows-10"><a href="#Windows-10" class="headerlink" title="Windows 10"></a>Windows 10</h1><p>Windows 10是美国微软公司研发的跨平台及设备应用的操作系统。是微软发布的最后一个独立Windows版本。Windows10共有7个发行版本，分别面向不同用户和设备。Windows 10共有家庭版、专业版、企业版、教育版、移动版、移动企业版和物联网核心版七个版本。<br>以后我会重点讲解win10.<br><img src="/2018/09/16/电脑操作系统简介/4.jpg" alt=""><br><img src="/2018/09/16/电脑操作系统简介/5.jpg" alt=""></p><h1 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h1><p>Linux是一套免费使用和自由传播的类Unix操作系统，是一个基于POSIX和UNIX的多用户、多任务、支持多线程和多CPU的操作系统。它能运行主要的UNIX工具软件、应用程序和网络协议。它支持32位和64位硬件。Linux继承了Unix以网络为核心的设计思想，是一个性能稳定的多用户网络操作系统。<br><img src="/2018/09/16/电脑操作系统简介/6.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Windows-XP&quot;&gt;&lt;a href=&quot;#Windows-XP&quot; class=&quot;headerlink&quot; title=&quot;Windows XP&quot;&gt;&lt;/a&gt;Windows XP&lt;/h1&gt;&lt;p&gt;Windows XP是美国微软公司研发的基于X86、X64架构的PC和平板电
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电脑常见配件及说明</title>
+    <link href="http://yoursite.com/2018/09/15/%E7%94%B5%E8%84%91%E5%B8%B8%E8%A7%81%E9%85%8D%E4%BB%B6%E5%8F%8A%E8%AF%B4%E6%98%8E/"/>
+    <id>http://yoursite.com/2018/09/15/电脑常见配件及说明/</id>
+    <published>2018-09-15T10:20:45.000Z</published>
+    <updated>2018-09-16T02:54:04.350Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="内部"><a href="#内部" class="headerlink" title="内部"></a>内部</h1><h2 id="1-主板"><a href="#1-主板" class="headerlink" title="1.主板"></a>1.主板</h2><p>主板是计算机各组件的载体，整个计算机内部结构的基础，在计算机中起着举足轻重的作用．有了主版，CPU才可以发号施令，各种设备才能如此沟通，和计算机机紧密连接在一起，从而形成一个有机整体。<br>图为主板<br><img src="/2018/09/15/电脑常见配件及说明/1.jpg" alt=""></p><h2 id="2-CPU"><a href="#2-CPU" class="headerlink" title="2.CPU"></a>2.CPU</h2><p>就是中央处理器，是一块超大规模的集成电路，是一台计算机的运算核心和控制核心它的功能主要是解释计算机指令以及处理计算机软件中的数据。<br>图为CPU<br><img src="/2018/09/15/电脑常见配件及说明/2.jpg" alt=""></p><h2 id="3-内存"><a href="#3-内存" class="headerlink" title="3.内存"></a>3.内存</h2><p>内存条是CPU可通过总线寻址，并进行读写操作的电脑部件。内存的大小及其时钟频率（单位为MHz）直接影响到电脑运行速度的快慢。<br>图为内存条<br><img src="/2018/09/15/电脑常见配件及说明/3.jpg" alt=""></p><h2 id="4-硬盘"><a href="#4-硬盘" class="headerlink" title="4.硬盘"></a>4.硬盘</h2><p>硬盘是电脑主要的存储媒介之一，由一个或者多个铝制或者玻璃制的碟片组成。碟片外覆盖有铁磁性材料。硬盘有固态硬盘（SSD盘，新式硬盘）、机械硬盘（HDD传统硬盘）。SSD采用闪存颗粒来存储，HDD采用磁性碟片来存储。固态硬盘在数据读取速度、抗震能力、功耗、运行声音以及发热方面，相比普通机械硬盘拥有明显优势。<br>图为固态硬盘<br><img src="/2018/09/15/电脑常见配件及说明/4.jpg" alt=""></p><h2 id="5-显卡和声卡"><a href="#5-显卡和声卡" class="headerlink" title="5.显卡和声卡"></a>5.显卡和声卡</h2><p>显卡全称显示接口卡，又称显示适配器，是计算机最基本配置、最重要的配件之一。显卡作为电脑主机里的一个重要组成部分，是电脑进行数模信号转换的设备，承担输出显示图形的任务。声卡也叫音频卡：声卡是多媒体技术中最基本的组成部分，是实现声波/数字信号相互转换的一种硬件。<br>图为GTX1080Ti显卡<br><img src="/2018/09/15/电脑常见配件及说明/5.jpg" alt=""></p><h2 id="6-CPU散热器"><a href="#6-CPU散热器" class="headerlink" title="6.CPU散热器"></a>6.CPU散热器</h2><p>CPU在工作的时候会产生大量的热，如果不将这些热量及时散发出去，轻则导致死机，重则可能将CPU烧毁，CPU散热器就是用来为CPU散热的。<br>图为散热器<br><img src="/2018/09/15/电脑常见配件及说明/6.jpg" alt=""></p><h1 id="外部"><a href="#外部" class="headerlink" title="外部"></a>外部</h1><h2 id="1-显示器"><a href="#1-显示器" class="headerlink" title="1.显示器"></a>1.显示器</h2><p>显示器通常也被称为监视器。显示器是属于电脑的I/O设备，即输入输出设备。它是一种将一定的电子文件通过特定的传输设备显示到屏幕上再反射到人眼的显示工具。<br>图为显示器<br><img src="/2018/09/15/电脑常见配件及说明/7.jpg" alt=""></p><h2 id="2-耳机、音箱"><a href="#2-耳机、音箱" class="headerlink" title="2.耳机、音箱"></a>2.耳机、音箱</h2><p><img src="/2018/09/15/电脑常见配件及说明/8.jpg" alt=""><br><img src="/2018/09/15/电脑常见配件及说明/9.jpg" alt=""></p><h2 id="3-鼠标、键盘、摄像头"><a href="#3-鼠标、键盘、摄像头" class="headerlink" title="3.鼠标、键盘、摄像头"></a>3.鼠标、键盘、摄像头</h2><p><img src="/2018/09/15/电脑常见配件及说明/10.jpg" alt=""><br><img src="/2018/09/15/电脑常见配件及说明/11.jpg" alt=""><br><img src="/2018/09/15/电脑常见配件及说明/12.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;内部&quot;&gt;&lt;a href=&quot;#内部&quot; class=&quot;headerlink&quot; title=&quot;内部&quot;&gt;&lt;/a&gt;内部&lt;/h1&gt;&lt;h2 id=&quot;1-主板&quot;&gt;&lt;a href=&quot;#1-主板&quot; class=&quot;headerlink&quot; title=&quot;1.主板&quot;&gt;&lt;/a&gt;1.主板&lt;/h
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
