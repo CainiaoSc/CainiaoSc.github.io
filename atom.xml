@@ -1,98 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Noobzyh&#39;s Blog</title>
+  <title>北江中学创新一班</title>
   
-  <subtitle>可以教电脑小白的blog</subtitle>
+  <subtitle>主要用来分享班级内通知、学习资料及一些别的。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-21T15:01:05.320Z</updated>
+  <updated>2018-10-11T14:39:41.228Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Noobzyh</name>
+    <name>Noobzyh(北江中学创新一班)</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>快捷键（热键）大全</title>
-    <link href="http://yoursite.com/2018/09/20/%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%88%EF%BC%88%E7%83%AD%E9%94%AE%EF%BC%89%E4%B8%80%E8%A7%88/"/>
-    <id>http://yoursite.com/2018/09/20/快捷键（（热键）一览/</id>
-    <published>2018-09-20T14:25:51.000Z</published>
-    <updated>2018-09-21T15:01:05.320Z</updated>
+    <title>网站说明</title>
+    <link href="http://yoursite.com/2018/10/11/%E7%BD%91%E7%AB%99%E8%AF%B4%E6%98%8E/"/>
+    <id>http://yoursite.com/2018/10/11/网站说明/</id>
+    <published>2018-10-11T14:23:49.000Z</published>
+    <updated>2018-10-11T14:39:41.228Z</updated>
     
-    <content type="html"><![CDATA[<p>键盘快捷键使用大全所谓快捷键就是使用键盘上某一个或某几个键的组合完成一条功能命令，从而达到提高操作速度的目的。下面为大家介绍一些常用快捷键的使用和功能。希望这些电脑快捷键大全可以给用户带来便捷的上网体验。善用快捷键，可以更快捷的使用电脑。<br>下面来看看各种电脑快捷键大全和组合键的功能大全。</p><h1 id="电脑快捷键："><a href="#电脑快捷键：" class="headerlink" title="电脑快捷键："></a>电脑快捷键：</h1><p>   Ctrl+1,2,3…　功能：切换到从左边数起第1,2,3…个标签</p><p>　　Ctrl+A　功能：全部选中当前页面内容</p><p>　　Ctrl+C　功能：复制当前选中内容</p><p>　　Ctrl+D　功能：打开“添加收藏”面版(把当前页面添加到收藏夹中)</p><p>　　Ctrl+E　功能：打开或关闭“搜索”侧边栏(各种搜索引擎可选)</p><p>　　Ctrl+F　功能：打开“查找”面版</p><p>　　Ctrl+G　功能：打开或关闭“简易收集”面板</p><p>　　Ctrl+H　功能：打开“历史”侧边栏</p><p>　　Ctrl+I　功能：打开“收藏夹”侧边栏/另:将所有垂直平铺或水平平铺或层叠的窗口恢复</p><p>　　Ctrl+K　功能：关闭除当前和锁定标签外的所有标签</p><p>　　Ctrl+L　功能：打开“打开”面版(可以在当前页面打开Iternet地址或其他文件…)</p><p>　　Ctrl+N　功能：新建一个空白窗口(可更改,Maxthon选项→标签→新建)</p><p>　　Ctrl+O　功能：打开“打开”面版(可以在当前页面打开Iternet地址或其他文件…)</p><p>　　Ctrl+P　功能：打开“打印”面板(可以打印网页,图片什么的…)</p><p>　　Ctrl+Q　功能：打开“添加到过滤列表”面板(将当前页面地址发送到过滤列表)</p><p>　　Ctrl+R　功能：刷新当前页面</p><p>　　Ctrl+S　功能：打开“保存网页”面板(可以将当前页面所有内容保存下来)</p><p>　　Ctrl+T　功能：垂直平铺所有窗口</p><p>　　Ctrl+V　功能：粘贴当前剪贴板内的内容</p><p>　　Ctrl+W　功能：关闭当前标签(窗口)</p><p>　　Ctrl+X　功能：剪切当前选中内容(一般只用于文本操作)</p><p>　　Ctrl+Y　功能：重做刚才动作(一般只用于文本操作)</p><p>　　Ctrl+Z　功能：撤消刚才动作(一般只用于文本操作)</p><p>　　Ctrl+F4　功能：关闭当前标签(窗口)</p><p>　　Ctrl+F5　功能：刷新当前页面</p><p>　　Ctrl+F6　功能：按页面打开的先后时间顺序向前切换标签(窗口)</p><p>　　Ctrl+F11　功能：隐藏或显示菜单栏</p><p>　　Ctrl+Tab　功能：以小菜单方式向下切换标签(窗口)</p><p>　　Ctrl+拖曳　功能：保存该链接的地址或已选中的文本或指定的图片到一个文件夹中(保存目录可更改,Maxthon选项→保存)</p><p>　　Ctrl+小键盘’+’　功能：当前页面放大20%</p><p>　　Ctrl+小键盘’-‘　功能：当前页面缩小20%</p><p>　　Ctrl+小键盘’*’　功能：恢复当前页面的缩放为原始大小</p><p>　　Ctrl+Alt+S　功能：自动保存当前页面所有内容到指定文件夹(保存路径可更改,Maxthon选项→保存)</p><p>　　Ctrl+Shift+小键盘’+’　功能：所有页面放大20%</p><p>　　Ctrl+Shift+小键盘’-‘　功能：所有页面缩小20%</p><p>　　Ctrl+Shift+F　功能：输入焦点移到搜索栏</p><p>　　Ctrl+Shift+G　功能：关闭“简易收集”面板</p><p>　　Ctrl+Shift+H　功能：打开并激活到你设置的主页</p><p>　　Ctrl+Shift+N　功能：在新窗口中打开剪贴板中的地址,如果剪贴板中为文字,则调用搜索引擎搜索该文字(搜索引擎可选择,Maxthon选项→搜索)</p><p>　　Ctrl+Shift+S　功能：打开“保存网页”面板(可以将当前页面所有内容保存下来,等同于Ctrl+S)</p><p>　　Ctrl+Shift+W　功能：关闭除锁定标签外的全部标签(窗口)</p><p>　　Ctrl+Shift+F6　功能：按页面打开的先后时间顺序向后切换标签(窗口)</p><p>　　Ctrl+Shift+Tab　功能：以小菜单方式向上切换标签(窗口)</p><p>　　Alt+1　功能：保存当前表单</p><p>　　Alt+2　功能：保存为通用表单</p><p>　　Alt+A　功能：展开收藏夹列表</p><h1 id="自然键盘："><a href="#自然键盘：" class="headerlink" title="自然键盘："></a>自然键盘：</h1><pre><code>【窗口】显示或隐藏“开始”菜单</code></pre><p>　　【窗口】+F1帮助</p><p>　　【窗口】+D显示桌面</p><p>　　【窗口】+R打开“运行”</p><p>　　【窗口】+E打开“我的电脑”</p><p>　　【窗口】+F搜索文件或文件夹</p><p>　　【窗口】+U打开“工具管理器”</p><p>　　【窗口】+BREAK显示“系统属性”</p><p>　　【窗口】+TAB在打开的项目之间切换</p><h1 id="辅助功能："><a href="#辅助功能：" class="headerlink" title="辅助功能："></a>辅助功能：</h1><pre><code>按右边的SHIFT键八秒钟切换筛选键的开和关</code></pre><p>　　按SHIFT五次切换粘滞键的开和关</p><p>　　按NUMLOCK五秒钟切换切换键的开和关</p><p>　　左边的ALT+左边的SHIFT+NUMLOCK切换鼠标键的开和关</p><p>　　左边的ALT+左边的SHIFT+PRINTSCREEN切换高对比度的开和关<br>下面是补充的运行命令:</p><p>　　按“开始”-“运行”,或按WIN键+R，在『运行』窗口中输入：</p><p>　　(按英文字符顺序排列)</p><p>　　%temp%———打开临时文件夹</p><p>　　.————–C:DocumentsandSettings用户名所在文件夹</p><p>　　..————-C:DocumentsandSettings</p><p>　　…————我的电脑</p><p>　　————–C盘</p><p>　　appwize.cpl—-添加、删除程序</p><p>　　access.cpl—–辅助功能选项</p><p>　　Accwiz———辅助功能向导</p><p>　　cmd————CMD命令提示符</p><p>　　command——–CMD命令提示符</p><p>　　chkdsk.exe—–Chkdsk磁盘检查</p><p>　　certmgr.msc—-证书管理实用程序</p><p>　　calc———–启动计算器</p><p>　　charmap——–启动字符映射表</p><p>　　cintsetp——-仓颉拼音输入法</p><p>　　cliconfg——-SQLSERVER客户端网络实用程序</p><p>　　clipbrd——–剪贴板查看器</p><p>　　control——–打开控制面板</p><p>　　conf———–启动netmeeting</p><p>　　compmgmt.msc—计算机管理</p><p>　　cleanmgr——-垃圾整理</p><p>　　ciadv.msc——索引服务程序</p><p>　　dcomcnfg——-打开系统组件服务</p><p>　　ddeshare——-打开DDE共享设置</p><p>　　dxdiag———检查DirectX信息</p><p>　　drwtsn32——-系统医生</p><p>　　devmgmt.msc—-设备管理器</p><p>　　desk.cpl——-显示属性</p><p>　　dfrg.msc——-磁盘碎片整理程序</p><p>　　diskmgmt.msc—磁盘管理实用程序</p><p>　　dvdplay——–DVD播放器</p><p>　　eventvwr——-事件查看器</p><p>　　eudcedit——-造字程序</p><p>　　explorer——-打开资源管理器</p><p>　　fsmgmt.msc—–共享文件夹管理器</p><p>　　firewall.cpl—WINDOWS防火墙</p><p>　　gpedit.msc—–组策略</p><p>　　hdwwiz.cpl—–添加硬件</p><p>　　iexpress——-木马捆绑工具，系统自带</p><p>　　inetcpl.cpl—-INTETNET选项</p><p>　　intl.cpl——-区域和语言选项(输入法选项)</p><p>　　irprops.cpl—-无线链接</p><p>　　joy.cpl——–游戏控制器</p><p>　　lusrmgr.msc—-本机用户和组</p><p>　　logoff———注销命令</p><p>　　main.cpl——-鼠标</p><p>　　mem.exe——–显示内存使用情况</p><p>　　migwiz———文件转移向导</p><p>　　mlcfg32.cpl—-邮件</p><p>　　mplayer2——-简易widnowsmediaplayer</p><p>　　mspaint——–画图板</p><p>　　msconfig.exe—系统配置实用程序</p><p>　　mstsc———-远程桌面连接</p><p>　　magnify——–放大镜实用程序</p><p>　　mmc————打开控制台</p><p>　　mmsys.cpl——声音和音频设备</p><p>　　mobsync——–同步命令</p><p>　　ncpa.cpl——-网络连接</p><p>　　nslookup——-IP地址侦测器</p><p>　　netstartX—-开始X服务</p><p>　　netstopX—–停止X服务</p><p>　　netstat-an—-命令检查接口</p><p>　　netsetup.cpl—无线网络安装向导</p><p>　　notepad——–打开记事本</p><p>　　nslookup——-IP地址侦探器</p><p>　　narrator——-屏幕“讲述人”</p><p>　　ntbackup——-系统备份和还原</p><p>　　ntmsmgr.msc—-移动存储管理器</p><p>　　ntmsoprq.msc—移动存储管理员操作请求</p><p>　　nusrmgr.cpl—-用户账户</p><p>　　nwc.cpl——–NetWare客户服务</p><p>　　osk————打开屏幕键盘</p><p>　　odbcad32——-ODBC数据源管理器</p><p>　　odbccp32.cpl—ODBC数据源管理器</p><p>　　oobe/msoobe/a-检查XP是否激活</p><p>　　packager——-对象包装程序</p><p>　　perfmon.msc—-计算机性能监测程序</p><p>　　powercfg.cpl—电源选项</p><p>　　progman——–程序管理器</p><p>　　regedit——–注册表</p><p>　　rsop.msc——-组策略结果集</p><p>　　regedt32——-注册表编辑器</p><p>　　regsvr32/?—-调用、卸载DLL文件运行(详细请在cmd中输入regsvr32/?)</p><p>　　sapi.cpl——-语音</p><p>　　services.msc—本地服务设置</p><p>　　syncapp——–创建一个公文包</p><p>　　sysedit——–系统配置编辑器</p><p>　　sigverif——-文件签名验证程序</p><p>　　sndrec32——-录音机</p><p>　　sndvol32——-音量控制程序</p><p>　　shrpubw——–共享文件夹设置工具</p><p>　　secpol.msc—–本地安全策略</p><p>　　sysdm.cpl——系统</p><p>　　syskey———系统加密(一旦加密就不能解开，保护windowsxp系统的双重密码)</p><p>　　services.msc—本地服务设置</p><p>　　sfc.exe——–系统文件检查器</p><p>　　sfc/scannow—windows文件保护</p><p>　　shutdown——-关机命令(详细请在cmd中输入shutdown/?)</p><p>　　taskmgr——–任务管理器</p><p>　　telephon.cpl—电话和调制解调器选项</p><p>　　telnet———远程连接程序</p><p>　　timedate.cpl—日期和时间</p><p>　　tourstart——xp简介(安装完成后出现的漫游xp程序)</p><p>　　tsshutdn——-60秒倒计时关机命令</p><p>　　utilman——–辅助工具管理器</p><p>　　winver———检查Windows版本</p><p>　　winmsd———系统信息</p><p>　　wiaacmgr——-扫描仪和照相机向导</p><p>　　winchat——–XP自带局域网聊天</p><p>　　wmimgmt.msc—-打开windows管理体系结构(WMI)</p><p>　　wordpad——–写字板</p><p>　　wuaucpl.cpl—-自动更新</p><p>　　wupdmgr——–windows更新程序</p><p>　　write———-写字板</p><p>　　wscript——–windows脚本宿主设置</p><p>　　wscui.cpl——安全中心</p><h1 id="QQ快捷键"><a href="#QQ快捷键" class="headerlink" title="QQ快捷键"></a>QQ快捷键</h1><p>　  Alt+S 快速回复</p><p>　　Alt+C 关闭当前窗口</p><p>　　Alt+H 打开聊天记录</p><p>　　Alt+T 更改消息模式</p><p>　　Ait+J 打开聊天纪录</p><p>　　Ctrl+A 全选当前对话框里的内容</p><p>　　Ctrl+F QQ里直接显示字体设置工具条</p><p>　　Ctrl+J 输入框里回车(跟回车一个效果)</p><p>　　Ctrl+M 输入框里回车(跟回车一个效果)</p><p>　　Ctrl+L 对输入框里当前行的文字左对齐</p><p>　　Ctrl+R 对输入框里当前行的文字右对齐</p><p>　　Ctrl+E 对输入框里当前行的文字居中</p><p>　　Ctrl+V 在qq对话框里实行粘贴</p><p>　　Ctrl+Z 清空/恢复输入框里的文字</p><p>　　Ctrl+回车 快速回复 这个可能是聊QQ时最常用到的了</p><p>　　Ctrl+Alt+Z 快速提取消息</p><p>　　Ctrl+Alt+A 捕捉屏幕</p><h1 id="IE浏览器快捷键"><a href="#IE浏览器快捷键" class="headerlink" title="IE浏览器快捷键"></a>IE浏览器快捷键</h1><pre><code>F11打开/关闭全屏模式</code></pre><p>　　TAB循环的选择地址栏，刷新键和当前标签页</p><p>　　CTRL+F在当前标签页查询字或短语</p><p>　　CTRL+N为当前标签页打开一个新窗口</p><p>　　CTRL+P打印当前标签页</p><p>　　CTRL+A选择当前页的所有内容</p><p>　　CTRL+Plus放大(由于前面是加号为避免误解所以用Plus代表“+”)</p><p>　　CTRL+-缩小</p><p>　　CTRL+0恢复原始大小<br>　 ALT+HOME返回主页</p><p>　　ALT+LEFT返回后一页</p><p>　　ALT+RIGHT返回前一页</p><p>　　F5刷新</p><p>　　CTRL+F5刷新页面同时刷新缓存</p><p>　　ESC停止下载页面</p><p>　 CTRL+I打开收藏夹</p><p>　　CTRL+SHIFT+I以固定模式打开收藏夹</p><p>　　CTRL+B整理收藏夹</p><p>　　CTRL+D将当前页添加到收藏夹</p><p>　　CTRL+J打开 Feeds</p><p>　　CTRL+SHIFT+J以固定模式打开 Feeds</p><p>　　CTRL+H打开历史</p><p>　　CTRL+SHIFT+H以固定模式打开历史<br>   CTRL+ 鼠标左键 or 鼠标中键用新标签打开链接并切换至新标签</p><p>　　CTRL+SHIFT+ 鼠标左键 or CTRL+SHIFT+ 鼠标中键用新标签打开链接但不切换至新标签</p><p>　　CTRL+W or CTRL+F4关闭当前标签页(如果只有一个标签将关闭IE)</p><p>　　CTRL+Q打开快速标签视图</p><p>　　CTRL+T打开一个新标签</p><p>　　CTRL+SHIFT+Q查看打开标签的列表</p><p>　　CTRL+TAB切换到下一个标签</p><p>　　CTRL+SHIFT+TAB切换到前一个标签<br>　<br>    ALT+D选择地址栏</p><p>　　CTRL+ENTER在地址栏中的文本初出添加”<a href="http://www.&quot;" target="_blank" rel="noopener">http://www.&quot;</a> 和末尾添加”.com”</p><p>　　CTRL+SHIFT+ENTER在地址栏中的文本初出添加”<a href="http://www.&quot;" target="_blank" rel="noopener">http://www.&quot;</a> 和末尾添加你自定义的后缀</p><p>　　ALT+ENTER用新标签打开地址栏的网址</p><p>　　F4查看以前出入的地址<br>　<br>    CTRL+E选择搜索栏</p><p>　　CTRL+DOWN查看搜索引擎列表</p><p>　　ALT+ENTER用新标签打开搜索结果<br>                                        ————选自部分文章</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;键盘快捷键使用大全所谓快捷键就是使用键盘上某一个或某几个键的组合完成一条功能命令，从而达到提高操作速度的目的。下面为大家介绍一些常用快捷键的使用和功能。希望这些电脑快捷键大全可以给用户带来便捷的上网体验。善用快捷键，可以更快捷的使用电脑。&lt;br&gt;下面来看看各种电脑快捷键大全
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>快速学习win10（1）</title>
-    <link href="http://yoursite.com/2018/09/16/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0win10%EF%BC%881%EF%BC%89/"/>
-    <id>http://yoursite.com/2018/09/16/快速学习win10（1）/</id>
-    <published>2018-09-16T10:08:59.000Z</published>
-    <updated>2018-09-20T14:23:32.643Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="1-桌面"><a href="#1-桌面" class="headerlink" title="1 桌面"></a>1 桌面</h1><h2 id="1-1-桌面图标"><a href="#1-1-桌面图标" class="headerlink" title="1.1 桌面图标"></a>1.1 桌面图标</h2><p>你会看到桌面上有一大堆的图标，这些其实就是各种各样的文件、文件夹、应用等等。你可以双击打开它，也可以右键对它进行一系列的操作。<br><img src="/2018/09/16/快速学习win10（1）/1.jpg" alt=""></p><h2 id="1-2-桌面背景"><a href="#1-2-桌面背景" class="headerlink" title="1.2 桌面背景"></a>1.2 桌面背景</h2><p>桌面背景实际上就是一张图片，也被称为墙纸（某些动态背景除外），你可以根据需要去设置它。<br><img src="/2018/09/16/快速学习win10（1）/2.jpg" alt=""></p><h2 id="1-3-任务栏"><a href="#1-3-任务栏" class="headerlink" title="1.3 任务栏"></a>1.3 任务栏</h2><p>这玩意就是桌面下面的那一长条的东西，主要由程序区、通知区、和显示桌面按键组成。旁边的Cortana还能帮你做很多事情。<br><img src="/2018/09/16/快速学习win10（1）/3.jpg" alt=""></p><h2 id="1-4-Task-View-任务视图"><a href="#1-4-Task-View-任务视图" class="headerlink" title="1.4 Task View(任务视图)"></a>1.4 Task View(任务视图)</h2><p>这个东西可以理解为是一个虚拟桌面，你可以在这里看到你当前运行的程序，这很方便于我们切换窗口，你甚至还可以定制不同的桌面来满足你的需求，其功能十分强大。<br><img src="/2018/09/16/快速学习win10（1）/4.jpg" alt=""></p><h1 id="2-基操"><a href="#2-基操" class="headerlink" title="2 基操"></a>2 基操</h1><p>Win10的基本操作就有很多很多了，一些我没讲到的，就靠你们自己摸索了。</p><h2 id="2-1-将一些常用的系统图标添加到桌面上"><a href="#2-1-将一些常用的系统图标添加到桌面上" class="headerlink" title="2.1 将一些常用的系统图标添加到桌面上"></a>2.1 将一些常用的系统图标添加到桌面上</h2><p>系统图标有很多，像控制面板、以你的用户名命名的文件夹等。要怎么添加它们呢。<br>在桌面的空白处右击，选择【个性化】，在【个性化】中，选择【主题】选项，然后再选择右边的【桌面图标设置】，然后选择你要添加的系统图标，单击确定，就添加到桌面上了。<br><img src="/2018/09/16/快速学习win10（1）/5.jpg" alt=""></p><h2 id="2-2-添加桌面快捷方式"><a href="#2-2-添加桌面快捷方式" class="headerlink" title="2.2 添加桌面快捷方式"></a>2.2 添加桌面快捷方式</h2><h3 id="2-2-1-添加文件或文件夹"><a href="#2-2-1-添加文件或文件夹" class="headerlink" title="2.2.1 添加文件或文件夹"></a>2.2.1 添加文件或文件夹</h3><p>右击你的文件或文件夹，选择【发送到——桌面快捷方式命令】。然后这个文件或文件夹就添加到桌面了。</p><h3 id="2-2-2-添加应用程序"><a href="#2-2-2-添加应用程序" class="headerlink" title="2.2.2 添加应用程序"></a>2.2.2 添加应用程序</h3><p>单击【开始（也就是windows键）】，在快捷菜单中选择【所有应用】，然后你就会看到你的所有应用都在这里。然后选择一个应用，将它拖拽到桌面上就可以了。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="建站理由"><a href="#建站理由" class="headerlink" title="建站理由"></a>建站理由</h1><p>从网站的副标题可以看出来，此网站主要用来分享班级内通知、学习资料及一<br>些别的东西。其实这些东西放在网站上，你就会发现，网站这东西比Q群好多了<br>（虽然网站不能聊天）。就比如一些学习资料，我可以把下载链接统一贴在网<br>站上供你们下载，这就比在Q群上慢慢找好多了吧。<br>总之，这个网站就是为了方便我们学习嘛（手动滑稽）。</p><h1 id="关于网站"><a href="#关于网站" class="headerlink" title="关于网站"></a>关于网站</h1><p>很多童鞋可以看出来，这tm那里是网站，这tm是个blog。这是因为之前我用<br>hexo搭了一个blog，后来发现没用，那也不能浪费了啊。于是买个域名+魔改<br>一下就变成了班级网站（再次滑稽）.</p><h1 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h1><p>很简单啊，如果你想在网站上发布东西让同学们看到，就把要发的内容发给我<br>就行了（我是谁看网站底部）。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;1-桌面&quot;&gt;&lt;a href=&quot;#1-桌面&quot; class=&quot;headerlink&quot; title=&quot;1 桌面&quot;&gt;&lt;/a&gt;1 桌面&lt;/h1&gt;&lt;h2 id=&quot;1-1-桌面图标&quot;&gt;&lt;a href=&quot;#1-1-桌面图标&quot; class=&quot;headerlink&quot; title=&quot;1
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>电脑操作系统简介</title>
-    <link href="http://yoursite.com/2018/09/16/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B/"/>
-    <id>http://yoursite.com/2018/09/16/电脑操作系统简介/</id>
-    <published>2018-09-16T02:56:04.000Z</published>
-    <updated>2018-09-16T04:21:09.184Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Windows-XP"><a href="#Windows-XP" class="headerlink" title="Windows XP"></a>Windows XP</h1><p>Windows XP是美国微软公司研发的基于X86、X64架构的PC和平板电脑使用的操作系统，于2001年8月24日发布RTM版本，并于2001年10月25日开始零售。可以说是最为经典的一个操作系统。<br><img src="/2018/09/16/电脑操作系统简介/1.jpg" alt=""></p><h1 id="Windows-7"><a href="#Windows-7" class="headerlink" title="Windows 7"></a>Windows 7</h1><p>Windows7，中文名称视窗7，是由微软公司开发的操作系统，内核版本号为Windows NT 6.1。Windows7可供家庭及商业工作环境：笔记本电脑、平板电脑 、多媒体中心等使用。和同为NT6成员的Windows Vista一脉相承，Windows7继承了包括Aero风格等多项功能，并且在此基础上增添了些许功能。<br><img src="/2018/09/16/电脑操作系统简介/2.jpg" alt=""></p><h1 id="Windows-8"><a href="#Windows-8" class="headerlink" title="Windows 8"></a>Windows 8</h1><p>Windows 8是美国微软开发的新一代操作系统，Windows8共有4个发行版本，分别面向不同用户和设备。于2012年10月26日发布。微软在Windows8操作系统上对界面做了相当大的调整。取消了经典主题以及Windows 7和Vista的Aero效果，加入了ModernUI，和Windows传统界面并存。同时Windows徽标大幅简化，以反映新的Modern UI风格。前身旗形标志转化成梯形。<br><img src="/2018/09/16/电脑操作系统简介/3.jpg" alt=""></p><h1 id="Windows-10"><a href="#Windows-10" class="headerlink" title="Windows 10"></a>Windows 10</h1><p>Windows 10是美国微软公司研发的跨平台及设备应用的操作系统。是微软发布的最后一个独立Windows版本。Windows10共有7个发行版本，分别面向不同用户和设备。Windows 10共有家庭版、专业版、企业版、教育版、移动版、移动企业版和物联网核心版七个版本。<br>以后我会重点讲解win10.<br><img src="/2018/09/16/电脑操作系统简介/4.jpg" alt=""><br><img src="/2018/09/16/电脑操作系统简介/5.jpg" alt=""></p><h1 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h1><p>Linux是一套免费使用和自由传播的类Unix操作系统，是一个基于POSIX和UNIX的多用户、多任务、支持多线程和多CPU的操作系统。它能运行主要的UNIX工具软件、应用程序和网络协议。它支持32位和64位硬件。Linux继承了Unix以网络为核心的设计思想，是一个性能稳定的多用户网络操作系统。<br><img src="/2018/09/16/电脑操作系统简介/6.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Windows-XP&quot;&gt;&lt;a href=&quot;#Windows-XP&quot; class=&quot;headerlink&quot; title=&quot;Windows XP&quot;&gt;&lt;/a&gt;Windows XP&lt;/h1&gt;&lt;p&gt;Windows XP是美国微软公司研发的基于X86、X64架构的PC和平板电
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>电脑常见配件及说明</title>
-    <link href="http://yoursite.com/2018/09/15/%E7%94%B5%E8%84%91%E5%B8%B8%E8%A7%81%E9%85%8D%E4%BB%B6%E5%8F%8A%E8%AF%B4%E6%98%8E/"/>
-    <id>http://yoursite.com/2018/09/15/电脑常见配件及说明/</id>
-    <published>2018-09-15T10:20:45.000Z</published>
-    <updated>2018-09-16T02:54:04.350Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="内部"><a href="#内部" class="headerlink" title="内部"></a>内部</h1><h2 id="1-主板"><a href="#1-主板" class="headerlink" title="1.主板"></a>1.主板</h2><p>主板是计算机各组件的载体，整个计算机内部结构的基础，在计算机中起着举足轻重的作用．有了主版，CPU才可以发号施令，各种设备才能如此沟通，和计算机机紧密连接在一起，从而形成一个有机整体。<br>图为主板<br><img src="/2018/09/15/电脑常见配件及说明/1.jpg" alt=""></p><h2 id="2-CPU"><a href="#2-CPU" class="headerlink" title="2.CPU"></a>2.CPU</h2><p>就是中央处理器，是一块超大规模的集成电路，是一台计算机的运算核心和控制核心它的功能主要是解释计算机指令以及处理计算机软件中的数据。<br>图为CPU<br><img src="/2018/09/15/电脑常见配件及说明/2.jpg" alt=""></p><h2 id="3-内存"><a href="#3-内存" class="headerlink" title="3.内存"></a>3.内存</h2><p>内存条是CPU可通过总线寻址，并进行读写操作的电脑部件。内存的大小及其时钟频率（单位为MHz）直接影响到电脑运行速度的快慢。<br>图为内存条<br><img src="/2018/09/15/电脑常见配件及说明/3.jpg" alt=""></p><h2 id="4-硬盘"><a href="#4-硬盘" class="headerlink" title="4.硬盘"></a>4.硬盘</h2><p>硬盘是电脑主要的存储媒介之一，由一个或者多个铝制或者玻璃制的碟片组成。碟片外覆盖有铁磁性材料。硬盘有固态硬盘（SSD盘，新式硬盘）、机械硬盘（HDD传统硬盘）。SSD采用闪存颗粒来存储，HDD采用磁性碟片来存储。固态硬盘在数据读取速度、抗震能力、功耗、运行声音以及发热方面，相比普通机械硬盘拥有明显优势。<br>图为固态硬盘<br><img src="/2018/09/15/电脑常见配件及说明/4.jpg" alt=""></p><h2 id="5-显卡和声卡"><a href="#5-显卡和声卡" class="headerlink" title="5.显卡和声卡"></a>5.显卡和声卡</h2><p>显卡全称显示接口卡，又称显示适配器，是计算机最基本配置、最重要的配件之一。显卡作为电脑主机里的一个重要组成部分，是电脑进行数模信号转换的设备，承担输出显示图形的任务。声卡也叫音频卡：声卡是多媒体技术中最基本的组成部分，是实现声波/数字信号相互转换的一种硬件。<br>图为GTX1080Ti显卡<br><img src="/2018/09/15/电脑常见配件及说明/5.jpg" alt=""></p><h2 id="6-CPU散热器"><a href="#6-CPU散热器" class="headerlink" title="6.CPU散热器"></a>6.CPU散热器</h2><p>CPU在工作的时候会产生大量的热，如果不将这些热量及时散发出去，轻则导致死机，重则可能将CPU烧毁，CPU散热器就是用来为CPU散热的。<br>图为散热器<br><img src="/2018/09/15/电脑常见配件及说明/6.jpg" alt=""></p><h1 id="外部"><a href="#外部" class="headerlink" title="外部"></a>外部</h1><h2 id="1-显示器"><a href="#1-显示器" class="headerlink" title="1.显示器"></a>1.显示器</h2><p>显示器通常也被称为监视器。显示器是属于电脑的I/O设备，即输入输出设备。它是一种将一定的电子文件通过特定的传输设备显示到屏幕上再反射到人眼的显示工具。<br>图为显示器<br><img src="/2018/09/15/电脑常见配件及说明/7.jpg" alt=""></p><h2 id="2-耳机、音箱"><a href="#2-耳机、音箱" class="headerlink" title="2.耳机、音箱"></a>2.耳机、音箱</h2><p><img src="/2018/09/15/电脑常见配件及说明/8.jpg" alt=""><br><img src="/2018/09/15/电脑常见配件及说明/9.jpg" alt=""></p><h2 id="3-鼠标、键盘、摄像头"><a href="#3-鼠标、键盘、摄像头" class="headerlink" title="3.鼠标、键盘、摄像头"></a>3.鼠标、键盘、摄像头</h2><p><img src="/2018/09/15/电脑常见配件及说明/10.jpg" alt=""><br><img src="/2018/09/15/电脑常见配件及说明/11.jpg" alt=""><br><img src="/2018/09/15/电脑常见配件及说明/12.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;内部&quot;&gt;&lt;a href=&quot;#内部&quot; class=&quot;headerlink&quot; title=&quot;内部&quot;&gt;&lt;/a&gt;内部&lt;/h1&gt;&lt;h2 id=&quot;1-主板&quot;&gt;&lt;a href=&quot;#1-主板&quot; class=&quot;headerlink&quot; title=&quot;1.主板&quot;&gt;&lt;/a&gt;1.主板&lt;/h
+        &lt;h1 id=&quot;建站理由&quot;&gt;&lt;a href=&quot;#建站理由&quot; class=&quot;headerlink&quot; title=&quot;建站理由&quot;&gt;&lt;/a&gt;建站理由&lt;/h1&gt;&lt;p&gt;从网站的副标题可以看出来，此网站主要用来分享班级内通知、学习资料及一&lt;br&gt;些别的东西。其实这些东西放在网站上，你就会发现，
       
     
     </summary>
